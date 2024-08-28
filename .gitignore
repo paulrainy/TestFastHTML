@@ -1,4 +1,5 @@
 .venv
+venv
 .sesskey
 .idea
 __pycache__
